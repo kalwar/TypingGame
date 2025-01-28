@@ -18,13 +18,13 @@ body, .quote-input {
 .container {
   width: 700px;
   max-width: 90%;
-  background-color: #f0db4f;
+  background-color: lightgreen;
   border-radius: .5rem;
   padding: 1rem;
 }
 
 .timer {
-  color: #f0db4f;
+  color: lightgreen;
   font-size: 3rem;
   font-weight: bold;
   position: absolute;
