@@ -16,7 +16,7 @@ body, .quote-input {
 }
 
 .container {
-  background-color: #F0DB4F;
+  background-color: lightgreen;
   padding: 1rem;
   border-radius: .5rem;
   width: 700px;
