@@ -5,4 +5,4 @@ Typing Game
 - Application is live in production server here:
 - http://musicianapp-env.eba-fpcenxvf.eu-central-1.elasticbeanstalk.com/
 
-## making a small change
+## making a small change to MD
